@@ -1,8 +1,8 @@
 {
-    "name": "GlowMC-Launcher",
-    "preductname": "GlowMC Launcher",
+    "name": "MMC-Launcher",
+    "preductname": "MegaMC Launcher",
     "version": "2.0.7",
-    "description": "Launcher Mincraft pour le serveur GlowMC",
+    "description": "Launcher Mincraft pour le serveur BMMC",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Inc.",
